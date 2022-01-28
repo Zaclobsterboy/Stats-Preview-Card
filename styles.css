@@ -81,7 +81,7 @@ a {
   padding: 2em 5em 3em;
 }
 .column2 {
-  background-image: url("../images/image-header-desktop.jpg");
+  background-image: url("./images/image-header-desktop.jpg");
   width: 435px;
   background-size: cover;
   background-repeat: no-repeat;
