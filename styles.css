@@ -125,7 +125,7 @@ a {
 
   .column1 {
     border-radius: 0 0 8px 8px;
-    height: 525px;
+    height: 580px;
     flex-direction: column;
     text-align: center;
     padding: 1.5em 4em;
@@ -134,7 +134,7 @@ a {
 
   .column2 {
     max-width: 100%;
-    height: 325px;
+    height: 350px;
     background-image: url("../images/image-header-mobile.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -144,6 +144,12 @@ a {
 
   .stats_wrapper {
     flex-direction: column;
+  }
+
+  .stat1,
+  .stat2,
+  .stat3 {
+    margin-bottom: 1.8em;
   }
 
   h2 {
